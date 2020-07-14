@@ -1,0 +1,4 @@
+.banner{padding:20px 20px 100px 20px;}
+.banner>h2{margin-bottom:10px;font-size:24px;color:#b5121b;font-weight:normal;}
+.banner>div{margin-bottom:10px}
+.banner>div>a>img{width:440px;}

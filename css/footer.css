@@ -1,0 +1,10 @@
+/* 서브메뉴 */
+.sub_menu{height:50px;border-top:1px solid #c9c9c9;border-bottom:1px solid #c9c9c9;box-sizing:border-box;padding-top:10px;}
+.sub_menu_left{box-sizing:border-box;width:240px;float:left;text-align:center;border-right:1px solid #c9c9c9;}
+.sub_menu_right{width:240px;float:right;text-align:center;}
+.sub_menu_left>a,.sub_menu_right>a{font-family:'Noto Sans KR';font-size:16px;color:#666666;}
+/* 푸터 */
+.footer{clear:both;padding:20px;background-color:#b5121b;}
+.footer>ul>li{font-family:'Noto Sans KR';font-size:12px;color:#ffffff;margin-bottom:6px;}
+.footer>ul>.font_bold{font-weight:bold;}
+.footer>ul>.font_roboto{font-family:'Roboto';margin-bottom:0px;}

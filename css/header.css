@@ -1,0 +1,9 @@
+/* 레퍼 */
+.wrap{width:480px;margin-left:auto;margin-right:auto;}
+/* 헤더 */
+.header{width:480px;height:50px;background-color:#b5121b;}
+.title{width:235px;margin-left:124px;float:left;}
+h1{text-align:center;}
+h1>a{font-family:'Roboto';font-weight:bold;font-size:30px;color:white;}
+.main_nav{margin-top:14px;margin-right:20px;float:right;}
+.main_banner{clear:both;}

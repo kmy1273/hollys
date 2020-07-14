@@ -1,0 +1,5 @@
+/* CSS Reset */
+*{margin:0;border:none;padding:0;}
+img{vertical-align:bottom;}
+a{text-decoration:none;}
+ul,li,ol{list-style:none;}
